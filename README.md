@@ -2,8 +2,6 @@
 Coffee Shop Management Software - SE Project
 # ☕ Coffee Shop Management Software
 
-# ☕ Coffee Shop Management Software
-
 ## 📋 Giới thiệu
 Phần mềm quản lý quán cà phê - Đồ án môn Software Engineering.
 
