@@ -14,7 +14,7 @@ Phần mềm quản lý quán cà phê - Đồ án môn Software Engineering.
 | Thành viên 4 | Huỳnh Kỳ Phong | Statistics + Testing | Revenue Statistics, Unit Test, Test Cases |
 
 ## 🛠️ Công nghệ sử dụng
-- Language: [Java / C# — điền vào sau]
+- Language: [C#]
 - Database: MySQL / SQL Server
 - Tool: IntelliJ IDEA / Visual Studio
 - Version Control: Git + GitHub
